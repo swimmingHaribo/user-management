@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Update</title>
 
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
     <script src="js/jquery-2.1.0.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
@@ -63,7 +63,7 @@
 
         <div class="form-group">
             <label>Email:</label>
-            <input type="text" class="form-control" name="email" placeholder="Please enter the province"/>
+            <input type="text" class="form-control" name="email" placeholder="Please enter the email"/>
         </div>
 
         <div class="form-group" style="text-align: center">
