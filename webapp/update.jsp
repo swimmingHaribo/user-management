@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Update</title>
 
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
     <script src="js/jquery-2.1.0.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
@@ -68,9 +68,9 @@
         </div>
 
         <div class="form-group" style="text-align: center">
-            <input class="btn btn-primary" type="submit" value="submit" onclick="history.go()"/>
-            <input class="btn btn-default" type="reset" value="reset" onclick="form.reset()"/>
-            <input class="btn btn-default" type="button" value="back" onclick="history.go(-1)"/>
+            <input class="btn btn-primary" type="submit" value="Submit" onclick="history.go()"/>
+            <input class="btn btn-default" type="reset" value="Reset" onclick="form.reset()"/>
+            <input class="btn btn-default" type="button" value="Back" onclick="history.go(-1)"/>
         </div>
     </form>
 </div>
