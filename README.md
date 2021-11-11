@@ -4,6 +4,7 @@
 - jsp 
 - bootstrap 
 - maven 
+- servlet
 
 ## Features
 
