@@ -13,14 +13,14 @@
 - Ability to add, delete, and update users
 - Ability to search users' information by keywords
 
-### Welcome
-<img src="https://github.com/swimmingAda/user-management/blob/main/images/user-hello.jpg" width="700" />
+<!-- ### Welcome
+<img src="https://github.com/swimmingAda/user-management/blob/main/images/user-hello.jpg" width="700" /> -->
 
 ### User Login Page
 <img src="https://github.com/swimmingAda/user-management/blob/main/images/user-login.jpg" width="700" />
 
-### Hello Admin
-<img src="https://github.com/swimmingAda/user-management/blob/main/images/user-welcome.jpg" width="700" />
+<!-- ### Hello Admin
+<img src="https://github.com/swimmingAda/user-management/blob/main/images/user-welcome.jpg" width="700" /> -->
 
 ### User Management Page
 <img src="https://github.com/swimmingAda/user-management/blob/main/images/user-management.jpg" width="700" />
